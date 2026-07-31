@@ -1,6 +1,6 @@
 # ESP32-C3 Air Mouse
 
-A Gyroscope Based Mouse Built Using the Esp32 C3 Super mini and the MPU6050
+A Gyroscope Based Mouse Built Using the Esp32 C3 Super mini and the MPU6050 
 
 ![Build photo](Photos/final(with_aura_farming).webp)
 
