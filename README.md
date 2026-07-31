@@ -56,7 +56,6 @@ Once flashed, the board shows up as **"ESP32 Air Mouse"**. Pair it from your com
 ## Troubleshooting
 
 - **MPU6050 not found at boot:** double-check wiring against the table above, particularly SDA/SCL.
-- **Cursor doesn't move after reconnecting** (but worked on first pair): make sure the board is running the version with the security/encryption handshake in `onConnect`/`onAuthenticationComplete` — older revisions of this sketch could connect without properly completing BLE encryption, which silently blocked HID reports.
 - **Choppy/jumpy cursor:** check `smoothFactor` and `MOTION_SEND_INTERVAL_MS` first. If it persists, check your OS's mouse settings (e.g. "Enhance pointer precision" on Windows).
 
 ## Photos
