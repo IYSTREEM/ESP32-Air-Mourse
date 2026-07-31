@@ -1,14 +1,14 @@
 # ESP32-C3 Air Mouse
 
-A Gyroscope Based Mouse Built Using the Esp32 C3 Super mini and the MPU6050 
+A Gyroscope Based Mouse Built Using the Esp32 C3 Super mini and the MPU6050. Since project uses a BLE library using a 500mah battery will make it last up to 5-6 hours on continuous use. I used a 500mah LIPO Battery along with a Tp4056 for this project 
 
 ![Build photo](Photos/final(with_aura_farming).webp)
 
 
 ## Hardware
 
-| Component | Notes |
-|---|---|
+| Component | 
+|---|
 | ESP32-C3 Super Mini |
 | MPU6050 | 
 | 5x momentary push buttons |
