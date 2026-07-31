@@ -1,5 +1,5 @@
 // This Sketch is Made for the Esp32 C3 Super mini 
-// Github Of The Project: https://github.com/IYSTREEM/ESP32-Air-Mourse
+// Github Of The Project: https://github.com/IYSTREEM/ESP32-Air-Mouse
 // MadeBy IYSTREEM
 
 #include <Wire.h>
